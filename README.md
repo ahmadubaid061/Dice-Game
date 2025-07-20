@@ -109,7 +109,7 @@ The game features a clean, interactive UI with visual feedback for the active pl
 
 ---
 
-This repository offers a fun and educational implementation of the **Pig Game**, perfect for learning:
+This repository offers a fun and educational implementation of the **Dice Game**, perfect for learning:
 
 * JavaScript DOM manipulation
 * Event handling
