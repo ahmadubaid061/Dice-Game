@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the **Pig Game**, a two-player dice game implemented using **HTML**, **CSS**, and **JavaScript**.
+This repository contains the **Dice Game**, a two-player dice game implemented using **HTML**, **CSS**, and **JavaScript**.
 Players compete to reach a total score of **100 points** by strategically rolling a die and banking points—while risking their current score if they roll a 1.
 The game features a clean, interactive UI with visual feedback for the active player and winner, including animations for an engaging experience.
 
@@ -84,12 +84,6 @@ The game features a clean, interactive UI with visual feedback for the active pl
   * `currentScore`
   * `scores` (array for total scores)
   * `playing` (game state)
-
-### Artifacts
-
-* `script.js` (artifact ID: `550e8400-e29b-41d4-a716-446655440000`): Core game logic
-* `index.html` (artifact ID: `e8e616e0-d894-4936-a3f5-391682ee794d`): Game structure
-* `styles.css` (artifact ID: `a7f9b3c2-1f2e-4b7a-9c8d-5e6f7a8b9c0d`): Styling for layout and winner effects
 
 ## ⚙️ Setup
 
